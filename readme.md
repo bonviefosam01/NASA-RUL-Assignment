@@ -2,9 +2,7 @@ This project repository contains a code folder, PDF project report and generativ
 
 Code Folder:
     main_rul.ipynb is a jupyter notebook in which the NASA CMAPSS Jet Simulated Data is loaded and processed, the LTSM and GRU models are executed and evaluated. This folder also stores the training, test, and actual RUL data as train_FD001.txt, test_FD001.txt, and RUL_FD001.txt respectively.
-
     When running main_rul.ipynb the user may have to uncomment the installation commands depending on whether they have their required packages on their machine.
-
     The current data file path is consistent with the working repository used too build this project. Please be advised to file path may need to be switch to run this program.
 
 Report:
