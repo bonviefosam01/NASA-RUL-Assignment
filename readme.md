@@ -5,6 +5,8 @@ main_rul.ipynb is a jupyter notebook in which the NASA CMAPSS Jet Simulated Data
 
 When running main_rul.ipynb the user may have to uncomment the installation commands depending on whether they have their required packages on their machine.
 
+The current data file path is consistent with the working repository used too build this project. Please be advised to file path may need to be switch to run this program.
+
 Report:
 report_rul.pdf consolidates the approach, methodology, results, and insights of this project.
 
